@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49
     wikipedia: http://www.gutenberg.org/browse/authors/a#a216
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33045#The-Ranidae--How-to-breed-feed-and-raise-the-edible-frog
 gutenberg_issued: '2010-07-01'
 gutenberg_type: Text
 identifiers:
